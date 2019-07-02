@@ -1,6 +1,6 @@
 # Predicting Stock Price Using Long Short-Term Memory Neural Networks
 The goal of this project is to predict the future closing price of a stock given its previous closing prices for certain period.
-Therefore, this is a regression problem. There are lots of complexities associated with stock prediction since the physical factors vs. physiological, rational and irrational behaviors are all involved and affect the market trend. LSTM is widely used for time series prediction and it’s seen to be very effective. There are a number of papers [7, 8] that suggest Long Short-Term Memory neural networks for time series data like stock price.
+Therefore, this is a regression problem. There are lots of complexities associated with stock prediction since the physical factors vs. physiological, rational and irrational behaviors are all involved and affect the market trend. LSTM is widely used for time series prediction and it’s seen to be very effective. There are a number of papers that suggest Long Short-Term Memory neural networks for time series data like stock price.
 I’m planning to investigate LSTM neural net and its implementation using Keras library. 
 
 # Instruction
